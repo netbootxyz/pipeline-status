@@ -2,14 +2,6 @@ FROM netbootxyz/docker-builder:latest as builder
 
 ENV DEBIAN_FRONTEND=noninteractive
 
-RUN \
- echo "**** install deps ****" && \
- apt-get update && \
- apt-get install -y \
-      git \
-      python3-pip \
-      python3-setuptools
-
 # repo for build
 COPY . /ansible
 

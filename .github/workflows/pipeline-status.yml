@@ -12,7 +12,7 @@ jobs:
     - name: Run a multi-line script
       run: |
         docker build -t localbuild -f Dockerfile .
-        docker run --rm -it -v $(pwd):/buildout localbuild
+        docker run --rm -v $(pwd):/buildout localbuild
     - uses: stefanzweifel/git-auto-commit-action@v2.5.0
       with:
         commit_message: Update README.md with latest pipeline-status
