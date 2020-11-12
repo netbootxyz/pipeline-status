@@ -1,0 +1,6 @@
+## Ubuntu Based Operating Systems
+|Build Item|Status|
+|----------|------|
+{% for item in ubuntu_branches.stdout_lines -%}
+|[{{ item }}](https://github.com/netbootxyz/ubuntu-squash/tree/{{ item }})|[![{{item}}](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch={{ item }})](https://travis-ci.com/netbootxyz/ubuntu-squash)|
+{% endfor -%}

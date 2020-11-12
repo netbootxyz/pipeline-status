@@ -1,0 +1,6 @@
+## Manjaro Operating Systems
+|Build Item|Status|
+|----------|------|
+{% for item in manjaro_branches.stdout_lines -%}
+|[{{ item }}](https://github.com/netbootxyz/manjaro-squash/tree/{{ item }})|[![{{item}}](https://travis-ci.com/netbootxyz/manjaro-squash.svg?branch={{ item }})](https://travis-ci.com/netbootxyz/manjaro-squash)|
+{% endfor -%}

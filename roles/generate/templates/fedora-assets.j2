@@ -1,0 +1,6 @@
+## Fedora Based Operating Systems
+|Build Item|Status|
+|----------|------|
+{% for item in fedora_branches.stdout_lines -%}
+|[{{ item }}](https://github.com/netbootxyz/fedora-assets/tree/{{ item }})|[![{{item}}](https://travis-ci.com/netbootxyz/fedora-assets.svg?branch={{ item }})](https://travis-ci.com/netbootxyz/fedora-assets)|
+{% endfor -%}

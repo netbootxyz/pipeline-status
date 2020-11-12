@@ -1,0 +1,57 @@
+- name: checkout repo
+  git:
+    repo: 'https://github.com/netbootxyz/{{ item }}'
+    dest: "/opt/builders/{{ item }}"
+  with_items:
+  - asset-mirror
+  - debian-squash
+  - fedora-assets
+  - external-versions
+  - manjaro-squash
+  - ubuntu-squash
+
+- name: Create output directory
+  file:
+    path: /opt/builders/output
+    state: directory
+    
+- name: get ubuntu branch names
+  shell: "git branch -r | grep -v master | awk -F '/' {'print $2'}"
+  register: "ubuntu_branches"
+  args:
+    chdir: "/opt/builders/ubuntu-squash"
+
+- name: get debian branch names
+  shell: "git branch -r | grep -v master | awk -F '/' {'print $2'}"
+  register: "debian_branches"
+  args:
+    chdir: "/opt/builders/debian-squash"
+
+- name: get manjaro branch names
+  shell: "git branch -r | grep -v master | awk -F '/' {'print $2'}"
+  register: "manjaro_branches"
+  args:
+    chdir: "/opt/builders/manjaro-squash"
+
+- name: get fedora branch names
+  shell: "git branch -r | grep -v master | awk -F '/' {'print $2'}"
+  register: "fedora_branches"
+  args:
+    chdir: "/opt/builders/fedora-assets"
+
+- name: get external-versions branch names
+  shell: "git branch -r | grep -v master | awk -F '/' {'print $2'}"
+  register: "external_branches"
+  args:
+    chdir: "/opt/builders/external-versions"
+
+- name: get asset-mirror branch names
+  shell: "git branch -r | grep -v master | awk -F '/' {'print $2'}"
+  register: "asset_branches"
+  args:
+    chdir: "/opt/builders/asset-mirror"
+
+- name: generate templates
+  template:
+    src: README.md.j2
+    dest: /opt/builders/output/README.md
