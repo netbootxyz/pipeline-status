@@ -1,6 +1,6 @@
-## netboot.xyz pipeline status
+# netboot.xyz pipeline status
 
-## netboot.xyz primary pipeline
+## Primary Pipeline
 |Build Item|Status|Deployed Endpoint|
 |----------|------|-----------------|
 |[Master Branch](https://github.com/netbootxyz/netboot.xyz/tree/master)|[![Build Status](https://travis-ci.com/netbootxyz/netboot.xyz.svg?branch=master)](https://travis-ci.com/netbootxyz/netboot.xyz)|[boot.netboot.xyz](https://boot.netboot.xyz)|
