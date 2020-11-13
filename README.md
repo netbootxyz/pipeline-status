@@ -1,11 +1,11 @@
 ## netboot.xyz pipeline status
 
 ## netboot.xyz primary pipeline
-|Build Item|Status|
-|----------|------|
-|[Master Branch](https://github.com/netbootxyz/netboot.xyz/tree/master)|[![Build Status](https://travis-ci.com/netbootxyz/netboot.xyz.svg?branch=master)](https://travis-ci.com/netbootxyz/netboot.xyz)|
-|[RC Branch](https://github.com/netbootxyz/netboot.xyz/tree/RC)|[![Build Status](https://travis-ci.com/netbootxyz/netboot.xyz.svg?branch=RC)](https://travis-ci.com/netbootxyz/netboot.xyz)|
-|[Development Branch](https://github.com/netbootxyz/netboot.xyz/tree/development)|[![Build Status](https://travis-ci.com/netbootxyz/netboot.xyz.svg?branch=development)](https://travis-ci.com/netbootxyz/netboot.xyz)|
+|Build Item|Status|Deployed Endpoint|
+|----------|------|-----------------|
+|[Master Branch](https://github.com/netbootxyz/netboot.xyz/tree/master)|[![Build Status](https://travis-ci.com/netbootxyz/netboot.xyz.svg?branch=master)](https://travis-ci.com/netbootxyz/netboot.xyz)|[boot.netboot.xyz](https://boot.netboot.xyz)|
+|[RC Branch](https://github.com/netbootxyz/netboot.xyz/tree/RC)|[![Build Status](https://travis-ci.com/netbootxyz/netboot.xyz.svg?branch=RC)](https://travis-ci.com/netbootxyz/netboot.xyz)|[staging.boot.netboot.xyz](https://staging.boot.netboot.xyz)|
+|[Development Branch](https://github.com/netbootxyz/netboot.xyz/tree/development)|[![Build Status](https://travis-ci.com/netbootxyz/netboot.xyz.svg?branch=development)](https://travis-ci.com/netbootxyz/netboot.xyz)|dev.boot.netboot.xyz|
 ## Asset Mirrors
 |Build Item|Status|
 |----------|------|
