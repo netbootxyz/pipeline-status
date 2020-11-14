@@ -6,6 +6,10 @@
 |[Master Branch](https://github.com/netbootxyz/netboot.xyz/tree/master)|[![Build Status](https://travis-ci.com/netbootxyz/netboot.xyz.svg?branch=master)](https://travis-ci.com/netbootxyz/netboot.xyz)|[boot.netboot.xyz](https://boot.netboot.xyz)|
 |[RC Branch](https://github.com/netbootxyz/netboot.xyz/tree/RC)|[![Build Status](https://travis-ci.com/netbootxyz/netboot.xyz.svg?branch=RC)](https://travis-ci.com/netbootxyz/netboot.xyz)|[staging.boot.netboot.xyz](https://staging.boot.netboot.xyz)|
 |[Development Branch](https://github.com/netbootxyz/netboot.xyz/tree/development)|[![Build Status](https://travis-ci.com/netbootxyz/netboot.xyz.svg?branch=development)](https://travis-ci.com/netbootxyz/netboot.xyz)|dev.boot.netboot.xyz|
+## Docker Builds
+|Build Item|Status|
+|----------|------|
+|[docker-builder](https://github.com/netbootxyz/docker-builder/docker-builder)|[![Build Status](https://github.com/netbootxyz/docker-builder/workflows/docker-builder/badge.svg)|
 ## Asset Mirrors
 |Build Item|Status|
 |----------|------|
@@ -161,6 +165,7 @@
 |[mint-20-cinnamon](https://github.com/netbootxyz/ubuntu-squash/tree/mint-20-cinnamon)|[![mint-20-cinnamon](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch=mint-20-cinnamon)](https://travis-ci.com/netbootxyz/ubuntu-squash)|
 |[mint-20-mate](https://github.com/netbootxyz/ubuntu-squash/tree/mint-20-mate)|[![mint-20-mate](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch=mint-20-mate)](https://travis-ci.com/netbootxyz/ubuntu-squash)|
 |[mint-20-xfce](https://github.com/netbootxyz/ubuntu-squash/tree/mint-20-xfce)|[![mint-20-xfce](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch=mint-20-xfce)](https://travis-ci.com/netbootxyz/ubuntu-squash)|
+|[nitrux-release](https://github.com/netbootxyz/ubuntu-squash/tree/nitrux-release)|[![nitrux-release](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch=nitrux-release)](https://travis-ci.com/netbootxyz/ubuntu-squash)|
 |[nitrux-stable](https://github.com/netbootxyz/ubuntu-squash/tree/nitrux-stable)|[![nitrux-stable](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch=nitrux-stable)](https://travis-ci.com/netbootxyz/ubuntu-squash)|
 |[peppermint-10](https://github.com/netbootxyz/ubuntu-squash/tree/peppermint-10)|[![peppermint-10](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch=peppermint-10)](https://travis-ci.com/netbootxyz/ubuntu-squash)|
 |[pop-18.04](https://github.com/netbootxyz/ubuntu-squash/tree/pop-18.04)|[![pop-18.04](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch=pop-18.04)](https://travis-ci.com/netbootxyz/ubuntu-squash)|
