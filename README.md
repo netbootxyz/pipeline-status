@@ -81,6 +81,7 @@
 |[sparky-stable-lxqt](https://github.com/netbootxyz/debian-squash/tree/sparky-stable-lxqt)|[![sparky-stable-lxqt](https://travis-ci.com/netbootxyz/debian-squash.svg?branch=sparky-stable-lxqt)](https://travis-ci.com/netbootxyz/debian-squash)|
 |[sparky-stable-mingui](https://github.com/netbootxyz/debian-squash/tree/sparky-stable-mingui)|[![sparky-stable-mingui](https://travis-ci.com/netbootxyz/debian-squash.svg?branch=sparky-stable-mingui)](https://travis-ci.com/netbootxyz/debian-squash)|
 |[voyager-buster](https://github.com/netbootxyz/debian-squash/tree/voyager-buster)|[![voyager-buster](https://travis-ci.com/netbootxyz/debian-squash.svg?branch=voyager-buster)](https://travis-ci.com/netbootxyz/debian-squash)|
+|[vyos-rolling](https://github.com/netbootxyz/debian-squash/tree/vyos-rolling)|[![vyos-rolling](https://travis-ci.com/netbootxyz/debian-squash.svg?branch=vyos-rolling)](https://travis-ci.com/netbootxyz/debian-squash)|
 |[xfce-10](https://github.com/netbootxyz/debian-squash/tree/xfce-10)|[![xfce-10](https://travis-ci.com/netbootxyz/debian-squash.svg?branch=xfce-10)](https://travis-ci.com/netbootxyz/debian-squash)|
 |[xfce-kali](https://github.com/netbootxyz/debian-squash/tree/xfce-kali)|[![xfce-kali](https://travis-ci.com/netbootxyz/debian-squash.svg?branch=xfce-kali)](https://travis-ci.com/netbootxyz/debian-squash)|
 
@@ -124,13 +125,13 @@
 ## Manjaro Operating Systems
 |Build Item|Status|
 |----------|------|
-|[18.1.0-gnome](https://github.com/netbootxyz/manjaro-squash/tree/18.1.0-gnome)|[![18.1.0-gnome](https://travis-ci.com/netbootxyz/manjaro-squash.svg?branch=18.1.0-gnome)](https://travis-ci.com/netbootxyz/manjaro-squash)|
-|[18.1.0-kde](https://github.com/netbootxyz/manjaro-squash/tree/18.1.0-kde)|[![18.1.0-kde](https://travis-ci.com/netbootxyz/manjaro-squash.svg?branch=18.1.0-kde)](https://travis-ci.com/netbootxyz/manjaro-squash)|
-|[18.1.0-xfce](https://github.com/netbootxyz/manjaro-squash/tree/18.1.0-xfce)|[![18.1.0-xfce](https://travis-ci.com/netbootxyz/manjaro-squash.svg?branch=18.1.0-xfce)](https://travis-ci.com/netbootxyz/manjaro-squash)|
-|[architect-current](https://github.com/netbootxyz/manjaro-squash/tree/architect-current)|[![architect-current](https://travis-ci.com/netbootxyz/manjaro-squash.svg?branch=architect-current)](https://travis-ci.com/netbootxyz/manjaro-squash)|
-|[gnome-current](https://github.com/netbootxyz/manjaro-squash/tree/gnome-current)|[![gnome-current](https://travis-ci.com/netbootxyz/manjaro-squash.svg?branch=gnome-current)](https://travis-ci.com/netbootxyz/manjaro-squash)|
-|[kde-current](https://github.com/netbootxyz/manjaro-squash/tree/kde-current)|[![kde-current](https://travis-ci.com/netbootxyz/manjaro-squash.svg?branch=kde-current)](https://travis-ci.com/netbootxyz/manjaro-squash)|
-|[xfce-current](https://github.com/netbootxyz/manjaro-squash/tree/xfce-current)|[![xfce-current](https://travis-ci.com/netbootxyz/manjaro-squash.svg?branch=xfce-current)](https://travis-ci.com/netbootxyz/manjaro-squash)|
+|[18.1.0-gnome](https://github.com/netbootxyz/manjaro-squash/tree/18.1.0-gnome)|[![18.1.0-gnome](https://github.com/netbootxyz/manjaro-squash/workflows/manjaro-18.1.0-gnome/badge.svg?branch=18.1.0-gnome)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Amanjaro-18.1.0-gnome)|
+|[18.1.0-kde](https://github.com/netbootxyz/manjaro-squash/tree/18.1.0-kde)|[![18.1.0-kde](https://github.com/netbootxyz/manjaro-squash/workflows/manjaro-18.1.0-kde/badge.svg?branch=18.1.0-kde)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Amanjaro-18.1.0-kde)|
+|[18.1.0-xfce](https://github.com/netbootxyz/manjaro-squash/tree/18.1.0-xfce)|[![18.1.0-xfce](https://github.com/netbootxyz/manjaro-squash/workflows/manjaro-18.1.0-xfce/badge.svg?branch=18.1.0-xfce)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Amanjaro-18.1.0-xfce)|
+|[architect-current](https://github.com/netbootxyz/manjaro-squash/tree/architect-current)|[![architect-current](https://github.com/netbootxyz/manjaro-squash/workflows/manjaro-architect-current/badge.svg?branch=architect-current)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Amanjaro-architect-current)|
+|[gnome-current](https://github.com/netbootxyz/manjaro-squash/tree/gnome-current)|[![gnome-current](https://github.com/netbootxyz/manjaro-squash/workflows/manjaro-gnome-current/badge.svg?branch=gnome-current)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Amanjaro-gnome-current)|
+|[kde-current](https://github.com/netbootxyz/manjaro-squash/tree/kde-current)|[![kde-current](https://github.com/netbootxyz/manjaro-squash/workflows/manjaro-kde-current/badge.svg?branch=kde-current)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Amanjaro-kde-current)|
+|[xfce-current](https://github.com/netbootxyz/manjaro-squash/tree/xfce-current)|[![xfce-current](https://github.com/netbootxyz/manjaro-squash/workflows/manjaro-xfce-current/badge.svg?branch=xfce-current)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Amanjaro-xfce-current)|
 
 ## Ubuntu Based Operating Systems
 |Build Item|Status|
@@ -174,6 +175,8 @@
 |[pop-19.10-nvidia](https://github.com/netbootxyz/ubuntu-squash/tree/pop-19.10-nvidia)|[![pop-19.10-nvidia](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch=pop-19.10-nvidia)](https://travis-ci.com/netbootxyz/ubuntu-squash)|
 |[pop-20.04](https://github.com/netbootxyz/ubuntu-squash/tree/pop-20.04)|[![pop-20.04](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch=pop-20.04)](https://travis-ci.com/netbootxyz/ubuntu-squash)|
 |[pop-20.04-nvidia](https://github.com/netbootxyz/ubuntu-squash/tree/pop-20.04-nvidia)|[![pop-20.04-nvidia](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch=pop-20.04-nvidia)](https://travis-ci.com/netbootxyz/ubuntu-squash)|
+|[pop-20.10](https://github.com/netbootxyz/ubuntu-squash/tree/pop-20.10)|[![pop-20.10](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch=pop-20.10)](https://travis-ci.com/netbootxyz/ubuntu-squash)|
+|[pop-20.10-nvidia](https://github.com/netbootxyz/ubuntu-squash/tree/pop-20.10-nvidia)|[![pop-20.10-nvidia](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch=pop-20.10-nvidia)](https://travis-ci.com/netbootxyz/ubuntu-squash)|
 |[pureos-gnome](https://github.com/netbootxyz/ubuntu-squash/tree/pureos-gnome)|[![pureos-gnome](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch=pureos-gnome)](https://travis-ci.com/netbootxyz/ubuntu-squash)|
 |[regolith](https://github.com/netbootxyz/ubuntu-squash/tree/regolith)|[![regolith](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch=regolith)](https://travis-ci.com/netbootxyz/ubuntu-squash)|
 |[ubuntu-20.04-netboot](https://github.com/netbootxyz/ubuntu-squash/tree/ubuntu-20.04-netboot)|[![ubuntu-20.04-netboot](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch=ubuntu-20.04-netboot)](https://travis-ci.com/netbootxyz/ubuntu-squash)|
