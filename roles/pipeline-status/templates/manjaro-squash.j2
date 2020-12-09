@@ -2,5 +2,5 @@
 |Build Item|Status|
 |----------|------|
 {% for item in manjaro_branches.stdout_lines -%}
-|[{{ item }}](https://github.com/netbootxyz/manjaro-squash/tree/{{ item }})|[![{{item}}](https://travis-ci.com/netbootxyz/manjaro-squash.svg?branch={{ item }})](https://travis-ci.com/netbootxyz/manjaro-squash)|
+|[{{ item }}](https://github.com/netbootxyz/manjaro-squash/tree/{{ item }})|[![{{item}}](https://github.com/netbootxyz/manjaro-squash/workflows/manjaro-{{ item }}/badge.svg?branch={{ item }})](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Amanjaro-{{ item }})|
 {% endfor -%}
