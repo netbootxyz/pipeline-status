@@ -88,12 +88,12 @@
 ## External Assets - Version Retrieval
 |Build Item|Status|
 |----------|------|
-|[alpinelinux](https://github.com/netbootxyz/external-versions/tree/alpinelinux)|[![alpinelinux](https://travis-ci.com/netbootxyz/external-versions.svg?branch=alpinelinux)](https://travis-ci.com/netbootxyz/external-versions)|
-|[archlinux](https://github.com/netbootxyz/external-versions/tree/archlinux)|[![archlinux](https://travis-ci.com/netbootxyz/external-versions.svg?branch=archlinux)](https://travis-ci.com/netbootxyz/external-versions)|
-|[coreos](https://github.com/netbootxyz/external-versions/tree/coreos)|[![coreos](https://travis-ci.com/netbootxyz/external-versions.svg?branch=coreos)](https://travis-ci.com/netbootxyz/external-versions)|
-|[ipfire](https://github.com/netbootxyz/external-versions/tree/ipfire)|[![ipfire](https://travis-ci.com/netbootxyz/external-versions.svg?branch=ipfire)](https://travis-ci.com/netbootxyz/external-versions)|
-|[smartos](https://github.com/netbootxyz/external-versions/tree/smartos)|[![smartos](https://travis-ci.com/netbootxyz/external-versions.svg?branch=smartos)](https://travis-ci.com/netbootxyz/external-versions)|
-|[tinycore](https://github.com/netbootxyz/external-versions/tree/tinycore)|[![tinycore](https://travis-ci.com/netbootxyz/external-versions.svg?branch=tinycore)](https://travis-ci.com/netbootxyz/external-versions)|
+|[alpinelinux](https://github.com/netbootxyz/external-versions/tree/alpinelinux)|[![alpinelinux](https://github.com/netbootxyz/external-versions/workflows/alpinelinux/badge.svg?branch=alpinelinux)](https://github.com/netbootxyz/external-versions/actions?query=workflow%3Aalpinelinux)|
+|[archlinux](https://github.com/netbootxyz/external-versions/tree/archlinux)|[![archlinux](https://github.com/netbootxyz/external-versions/workflows/archlinux/badge.svg?branch=archlinux)](https://github.com/netbootxyz/external-versions/actions?query=workflow%3Aarchlinux)|
+|[coreos](https://github.com/netbootxyz/external-versions/tree/coreos)|[![coreos](https://github.com/netbootxyz/external-versions/workflows/coreos/badge.svg?branch=coreos)](https://github.com/netbootxyz/external-versions/actions?query=workflow%3Acoreos)|
+|[ipfire](https://github.com/netbootxyz/external-versions/tree/ipfire)|[![ipfire](https://github.com/netbootxyz/external-versions/workflows/ipfire/badge.svg?branch=ipfire)](https://github.com/netbootxyz/external-versions/actions?query=workflow%3Aipfire)|
+|[smartos](https://github.com/netbootxyz/external-versions/tree/smartos)|[![smartos](https://github.com/netbootxyz/external-versions/workflows/smartos/badge.svg?branch=smartos)](https://github.com/netbootxyz/external-versions/actions?query=workflow%3Asmartos)|
+|[tinycore](https://github.com/netbootxyz/external-versions/tree/tinycore)|[![tinycore](https://github.com/netbootxyz/external-versions/workflows/tinycore/badge.svg?branch=tinycore)](https://github.com/netbootxyz/external-versions/actions?query=workflow%3Atinycore)|
 
 ## Fedora Based Operating Systems
 |Build Item|Status|
@@ -125,9 +125,6 @@
 ## Manjaro Operating Systems
 |Build Item|Status|
 |----------|------|
-|[18.1.0-gnome](https://github.com/netbootxyz/manjaro-squash/tree/18.1.0-gnome)|[![18.1.0-gnome](https://github.com/netbootxyz/manjaro-squash/workflows/manjaro-18.1.0-gnome/badge.svg?branch=18.1.0-gnome)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Amanjaro-18.1.0-gnome)|
-|[18.1.0-kde](https://github.com/netbootxyz/manjaro-squash/tree/18.1.0-kde)|[![18.1.0-kde](https://github.com/netbootxyz/manjaro-squash/workflows/manjaro-18.1.0-kde/badge.svg?branch=18.1.0-kde)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Amanjaro-18.1.0-kde)|
-|[18.1.0-xfce](https://github.com/netbootxyz/manjaro-squash/tree/18.1.0-xfce)|[![18.1.0-xfce](https://github.com/netbootxyz/manjaro-squash/workflows/manjaro-18.1.0-xfce/badge.svg?branch=18.1.0-xfce)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Amanjaro-18.1.0-xfce)|
 |[architect-current](https://github.com/netbootxyz/manjaro-squash/tree/architect-current)|[![architect-current](https://github.com/netbootxyz/manjaro-squash/workflows/manjaro-architect-current/badge.svg?branch=architect-current)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Amanjaro-architect-current)|
 |[gnome-current](https://github.com/netbootxyz/manjaro-squash/tree/gnome-current)|[![gnome-current](https://github.com/netbootxyz/manjaro-squash/workflows/manjaro-gnome-current/badge.svg?branch=gnome-current)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Amanjaro-gnome-current)|
 |[kde-current](https://github.com/netbootxyz/manjaro-squash/tree/kde-current)|[![kde-current](https://github.com/netbootxyz/manjaro-squash/workflows/manjaro-kde-current/badge.svg?branch=kde-current)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Amanjaro-kde-current)|
