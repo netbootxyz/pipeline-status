@@ -2,5 +2,5 @@
 |Build Item|Status|
 |----------|------|
 {% for item in external_branches.stdout_lines -%}
-|[{{ item }}](https://github.com/netbootxyz/external-versions/tree/{{ item }})|[![{{item}}](https://travis-ci.com/netbootxyz/external-versions.svg?branch={{ item }})](https://travis-ci.com/netbootxyz/external-versions)|
+|[{{ item }}](https://github.com/netbootxyz/external-versions/tree/{{ item }})|[![{{item}}](https://github.com/netbootxyz/external-versions/workflows/{{ item }}/badge.svg?branch={{ item }})](https://github.com/netbootxyz/external-versions/actions?query=workflow%3A{{ item }})|
 {% endfor -%}
