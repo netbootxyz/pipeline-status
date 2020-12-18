@@ -188,4 +188,3 @@
 |[xubuntu-20.04](https://github.com/netbootxyz/ubuntu-squash/tree/xubuntu-20.04)|[![xubuntu-20.04](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch=xubuntu-20.04)](https://travis-ci.com/netbootxyz/ubuntu-squash)|
 |[xubuntu-20.10](https://github.com/netbootxyz/ubuntu-squash/tree/xubuntu-20.10)|[![xubuntu-20.10](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch=xubuntu-20.10)](https://travis-ci.com/netbootxyz/ubuntu-squash)|
 |[zorin-15-gnome](https://github.com/netbootxyz/ubuntu-squash/tree/zorin-15-gnome)|[![zorin-15-gnome](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch=zorin-15-gnome)](https://travis-ci.com/netbootxyz/ubuntu-squash)|
-|[zorin-15-xfce](https://github.com/netbootxyz/ubuntu-squash/tree/zorin-15-xfce)|[![zorin-15-xfce](https://travis-ci.com/netbootxyz/ubuntu-squash.svg?branch=zorin-15-xfce)](https://travis-ci.com/netbootxyz/ubuntu-squash)|
