@@ -1,12 +1,14 @@
 name: Update pipeline-status
 
-on: push
-
+on: 
+  push:
+    branches: master
+  schedule:
+    - cron: '0 0 * * *'
+      
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v1
     - name: Run a multi-line script
