@@ -2,5 +2,5 @@
 |Build Item|Status|
 |----------|------|
 {% for item in fedora_branches.stdout_lines -%}
-|[{{ item }}](https://github.com/netbootxyz/fedora-assets/tree/{{ item }})|[![{{item}}](https://travis-ci.com/netbootxyz/fedora-assets.svg?branch={{ item }})](https://travis-ci.com/netbootxyz/fedora-assets)|
+|[{{ item }}](https://github.com/netbootxyz/fedora-assets/tree/{{ item }})|[![{{item}}](https://github.com/netbootxyz/fedora-assets/workflows/{{ item }}/badge.svg?branch={{ item }})](https://github.com/netbootxyz/fedora-assets/actions?query=workflow%3A{{ item }})|
 {% endfor -%}
