@@ -113,10 +113,10 @@
 ## Manjaro Operating Systems
 |Build Item|Status|
 |----------|------|
-|[architect-current](https://github.com/netbootxyz/manjaro-squash/tree/architect-current)|[![architect-current](https://github.com/netbootxyz/manjaro-squash/workflows/manjaro-architect-current/badge.svg?branch=architect-current)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Amanjaro-architect-current)|
-|[gnome-current](https://github.com/netbootxyz/manjaro-squash/tree/gnome-current)|[![gnome-current](https://github.com/netbootxyz/manjaro-squash/workflows/manjaro-gnome-current/badge.svg?branch=gnome-current)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Amanjaro-gnome-current)|
-|[kde-current](https://github.com/netbootxyz/manjaro-squash/tree/kde-current)|[![kde-current](https://github.com/netbootxyz/manjaro-squash/workflows/manjaro-kde-current/badge.svg?branch=kde-current)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Amanjaro-kde-current)|
-|[xfce-current](https://github.com/netbootxyz/manjaro-squash/tree/xfce-current)|[![xfce-current](https://github.com/netbootxyz/manjaro-squash/workflows/manjaro-xfce-current/badge.svg?branch=xfce-current)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Amanjaro-xfce-current)|
+|[architect-current](https://github.com/netbootxyz/manjaro-squash/tree/architect-current)|[![architect-current](https://github.com/netbootxyz/manjaro-squash/workflows/architect-current/badge.svg?branch=architect-current)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Aarchitect-current)|
+|[gnome-current](https://github.com/netbootxyz/manjaro-squash/tree/gnome-current)|[![gnome-current](https://github.com/netbootxyz/manjaro-squash/workflows/gnome-current/badge.svg?branch=gnome-current)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Agnome-current)|
+|[kde-current](https://github.com/netbootxyz/manjaro-squash/tree/kde-current)|[![kde-current](https://github.com/netbootxyz/manjaro-squash/workflows/kde-current/badge.svg?branch=kde-current)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Akde-current)|
+|[xfce-current](https://github.com/netbootxyz/manjaro-squash/tree/xfce-current)|[![xfce-current](https://github.com/netbootxyz/manjaro-squash/workflows/xfce-current/badge.svg?branch=xfce-current)](https://github.com/netbootxyz/manjaro-squash/actions?query=workflow%3Axfce-current)|
 
 ## Ubuntu Based Operating Systems
 |Build Item|Status|
