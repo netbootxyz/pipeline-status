@@ -38,7 +38,6 @@
 |[ovirt](https://github.com/netbootxyz/asset-mirror/tree/ovirt)|[![ovirt](https://github.com/netbootxyz/asset-mirror/workflows/ovirt/badge.svg?branch=ovirt)](https://github.com/netbootxyz/asset-mirror/actions?query=workflow%3Aovirt)|
 |[rescuezilla](https://github.com/netbootxyz/asset-mirror/tree/rescuezilla)|[![rescuezilla](https://github.com/netbootxyz/asset-mirror/workflows/rescuezilla/badge.svg?branch=rescuezilla)](https://github.com/netbootxyz/asset-mirror/actions?query=workflow%3Arescuezilla)|
 |[systemrescue](https://github.com/netbootxyz/asset-mirror/tree/systemrescue)|[![systemrescue](https://github.com/netbootxyz/asset-mirror/workflows/systemrescue/badge.svg?branch=systemrescue)](https://github.com/netbootxyz/asset-mirror/actions?query=workflow%3Asystemrescue)|
-|[velt](https://github.com/netbootxyz/asset-mirror/tree/velt)|[![velt](https://github.com/netbootxyz/asset-mirror/workflows/velt/badge.svg?branch=velt)](https://github.com/netbootxyz/asset-mirror/actions?query=workflow%3Avelt)|
 |[zeninstall](https://github.com/netbootxyz/asset-mirror/tree/zeninstall)|[![zeninstall](https://github.com/netbootxyz/asset-mirror/workflows/zeninstall/badge.svg?branch=zeninstall)](https://github.com/netbootxyz/asset-mirror/actions?query=workflow%3Azeninstall)|
 
 ## Debian Based Operating Systems
