@@ -2,5 +2,5 @@
 |Build Item|Status|
 |----------|------|
 {% for item in debian_branches.stdout_lines -%}
-|[{{ item }}](https://github.com/netbootxyz/debian-squash/tree/{{ item }})|[![{{item}}](https://github.com/netbootxyz/debian-squash/workflows/{{ item }}/badge.svg?branch={{ item }})](https://github.com/netbootxyz/debian-squash/actions?query=workflow%3A{{ item }})|
+|[{{ item }}](https://github.com/netbootxyz/debian-squash/tree/{{ item }})|[![{{ item }}](https://github.com/netbootxyz/debian-squash/actions/workflows/{{ {{ item }}.yml/badge.svg)](https://github.com/netbootxyz/debian-squash/actions/workflows/{{ {{ item }}.yml)
 {% endfor -%}

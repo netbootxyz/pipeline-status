@@ -2,5 +2,5 @@
 |Build Item|Status|
 |----------|------|
 {% for item in asset_branches.stdout_lines -%}
-|[{{ item }}](https://github.com/netbootxyz/asset-mirror/tree/{{ item }})|[![{{item}}](https://github.com/netbootxyz/asset-mirror/workflows/{{ item }}/badge.svg?branch={{ item }})](https://github.com/netbootxyz/asset-mirror/actions?query=workflow%3A{{ item }})|
+|[{{ item }}](https://github.com/netbootxyz/asset-mirror/tree/{{ item }})|[![{{ item }}](https://github.com/netbootxyz/asset-mirror/actions/workflows/{{ item }}.yml/badge.svg)](https://github.com/netbootxyz/asset-mirror/actions/workflows/{{ item }}.yml)
 {% endfor -%}
