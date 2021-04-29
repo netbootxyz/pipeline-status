@@ -111,6 +111,14 @@
 |[33-MATE_Compiz](https://github.com/netbootxyz/fedora-assets/tree/33-MATE_Compiz)|[![33-MATE_Compiz](https://github.com/netbootxyz/fedora-assets/actions/workflows/33-MATE_Compiz.yml/badge.svg)](https://github.com/netbootxyz/fedora-assets/actions/workflows/33-MATE_Compiz.yml)
 |[33-SoaS](https://github.com/netbootxyz/fedora-assets/tree/33-SoaS)|[![33-SoaS](https://github.com/netbootxyz/fedora-assets/actions/workflows/33-SoaS.yml/badge.svg)](https://github.com/netbootxyz/fedora-assets/actions/workflows/33-SoaS.yml)
 |[33-Xfce](https://github.com/netbootxyz/fedora-assets/tree/33-Xfce)|[![33-Xfce](https://github.com/netbootxyz/fedora-assets/actions/workflows/33-Xfce.yml/badge.svg)](https://github.com/netbootxyz/fedora-assets/actions/workflows/33-Xfce.yml)
+|[34](https://github.com/netbootxyz/fedora-assets/tree/34)|[![34](https://github.com/netbootxyz/fedora-assets/actions/workflows/34.yml/badge.svg)](https://github.com/netbootxyz/fedora-assets/actions/workflows/34.yml)
+|[34-KDE](https://github.com/netbootxyz/fedora-assets/tree/34-KDE)|[![34-KDE](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-KDE.yml/badge.svg)](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-KDE.yml)
+|[34-LXDE](https://github.com/netbootxyz/fedora-assets/tree/34-LXDE)|[![34-LXDE](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-LXDE.yml/badge.svg)](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-LXDE.yml)
+|[34-LXQt](https://github.com/netbootxyz/fedora-assets/tree/34-LXQt)|[![34-LXQt](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-LXQt.yml/badge.svg)](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-LXQt.yml)
+|[34-MATE_Compiz](https://github.com/netbootxyz/fedora-assets/tree/34-MATE_Compiz)|[![34-MATE_Compiz](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-MATE_Compiz.yml/badge.svg)](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-MATE_Compiz.yml)
+|[34-SoaS](https://github.com/netbootxyz/fedora-assets/tree/34-SoaS)|[![34-SoaS](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-SoaS.yml/badge.svg)](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-SoaS.yml)
+|[34-Xfce](https://github.com/netbootxyz/fedora-assets/tree/34-Xfce)|[![34-Xfce](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-Xfce.yml/badge.svg)](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-Xfce.yml)
+|[34-i3](https://github.com/netbootxyz/fedora-assets/tree/34-i3)|[![34-i3](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-i3.yml/badge.svg)](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-i3.yml)
 
 ## Manjaro Operating Systems
 |Build Item|Status|
