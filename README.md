@@ -93,6 +93,7 @@
 |[archlinux](https://github.com/netbootxyz/external-versions/tree/archlinux)|[![archlinux](https://github.com/netbootxyz/external-versions/actions/workflows/archlinux.yml/badge.svg)](https://github.com/netbootxyz/external-versions/actions/workflows/archlinux.yml)
 |[coreos](https://github.com/netbootxyz/external-versions/tree/coreos)|[![coreos](https://github.com/netbootxyz/external-versions/actions/workflows/coreos.yml/badge.svg)](https://github.com/netbootxyz/external-versions/actions/workflows/coreos.yml)
 |[ipfire](https://github.com/netbootxyz/external-versions/tree/ipfire)|[![ipfire](https://github.com/netbootxyz/external-versions/actions/workflows/ipfire.yml/badge.svg)](https://github.com/netbootxyz/external-versions/actions/workflows/ipfire.yml)
+|[nixos](https://github.com/netbootxyz/external-versions/tree/nixos)|[![nixos](https://github.com/netbootxyz/external-versions/actions/workflows/nixos.yml/badge.svg)](https://github.com/netbootxyz/external-versions/actions/workflows/nixos.yml)
 |[smartos](https://github.com/netbootxyz/external-versions/tree/smartos)|[![smartos](https://github.com/netbootxyz/external-versions/actions/workflows/smartos.yml/badge.svg)](https://github.com/netbootxyz/external-versions/actions/workflows/smartos.yml)
 |[tinycore](https://github.com/netbootxyz/external-versions/tree/tinycore)|[![tinycore](https://github.com/netbootxyz/external-versions/actions/workflows/tinycore.yml/badge.svg)](https://github.com/netbootxyz/external-versions/actions/workflows/tinycore.yml)
 
