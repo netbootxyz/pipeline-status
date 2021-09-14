@@ -10,7 +10,7 @@
 |Build Item|Status|
 |----------|------|
 |[docker-builder](https://github.com/netbootxyz/docker-builder)|![Build Status](https://github.com/netbootxyz/docker-builder/workflows/docker-builder/badge.svg)|
-## Asset Mirrors [![Downloads](https://img.shields.io/github/downloads/netbootxyz/asset-mirror/total)
+## Asset Mirrors [![Downloads](https://img.shields.io/github/downloads/netbootxyz/asset-mirror/total)](https://github.com/netbootxyz/asset-mirror)
 |Build Item|Status|
 |----------|------|
 |[4mlinux](https://github.com/netbootxyz/asset-mirror/tree/4mlinux)|[![4mlinux](https://github.com/netbootxyz/asset-mirror/actions/workflows/4mlinux.yml/badge.svg)](https://github.com/netbootxyz/asset-mirror/actions/workflows/4mlinux.yml)
@@ -51,7 +51,7 @@
 |[xcp-ng](https://github.com/netbootxyz/asset-mirror/tree/xcp-ng)|[![xcp-ng](https://github.com/netbootxyz/asset-mirror/actions/workflows/xcp-ng.yml/badge.svg)](https://github.com/netbootxyz/asset-mirror/actions/workflows/xcp-ng.yml)
 |[zeninstall](https://github.com/netbootxyz/asset-mirror/tree/zeninstall)|[![zeninstall](https://github.com/netbootxyz/asset-mirror/actions/workflows/zeninstall.yml/badge.svg)](https://github.com/netbootxyz/asset-mirror/actions/workflows/zeninstall.yml)
 
-## Debian Based Operating Systems [![Downloads](https://img.shields.io/github/downloads/netbootxyz/debian-squash/total)
+## Debian Based Operating Systems [![Downloads](https://img.shields.io/github/downloads/netbootxyz/debian-squash/total)](https://github.com/netbootxyz/debian-squash)
 |Build Item|Status|
 |----------|------|
 |[cinnamon-11](https://github.com/netbootxyz/debian-squash/tree/cinnamon-11)|[![cinnamon-11](https://github.com/netbootxyz/debian-squash/actions/workflows/cinnamon-11.yml/badge.svg)](https://github.com/netbootxyz/debian-squash/actions/workflows/cinnamon-11.yml)
@@ -91,7 +91,7 @@
 |[xfce-11](https://github.com/netbootxyz/debian-squash/tree/xfce-11)|[![xfce-11](https://github.com/netbootxyz/debian-squash/actions/workflows/xfce-11.yml/badge.svg)](https://github.com/netbootxyz/debian-squash/actions/workflows/xfce-11.yml)
 |[xfce-kali](https://github.com/netbootxyz/debian-squash/tree/xfce-kali)|[![xfce-kali](https://github.com/netbootxyz/debian-squash/actions/workflows/xfce-kali.yml/badge.svg)](https://github.com/netbootxyz/debian-squash/actions/workflows/xfce-kali.yml)
 
-## External Assets - Version Retrieval [![Downloads](https://img.shields.io/github/downloads/netbootxyz/external-versions/total)
+## External Assets - Version Retrieval
 |Build Item|Status|
 |----------|------|
 |[alpinelinux](https://github.com/netbootxyz/external-versions/tree/alpinelinux)|[![alpinelinux](https://github.com/netbootxyz/external-versions/actions/workflows/alpinelinux.yml/badge.svg)](https://github.com/netbootxyz/external-versions/actions/workflows/alpinelinux.yml)
@@ -103,7 +103,7 @@
 |[smartos](https://github.com/netbootxyz/external-versions/tree/smartos)|[![smartos](https://github.com/netbootxyz/external-versions/actions/workflows/smartos.yml/badge.svg)](https://github.com/netbootxyz/external-versions/actions/workflows/smartos.yml)
 |[tinycore](https://github.com/netbootxyz/external-versions/tree/tinycore)|[![tinycore](https://github.com/netbootxyz/external-versions/actions/workflows/tinycore.yml/badge.svg)](https://github.com/netbootxyz/external-versions/actions/workflows/tinycore.yml)
 
-## Fedora Based Operating Systems [![Downloads](https://img.shields.io/github/downloads/netbootxyz/fedora-assets/total)
+## Fedora Based Operating Systems [![Downloads](https://img.shields.io/github/downloads/netbootxyz/fedora-assets/total)](https://github.com/netbootxyz/fedora-assets)
 |Build Item|Status|
 |----------|------|
 |[32](https://github.com/netbootxyz/fedora-assets/tree/32)|[![32](https://github.com/netbootxyz/fedora-assets/actions/workflows/32.yml/badge.svg)](https://github.com/netbootxyz/fedora-assets/actions/workflows/32.yml)
@@ -131,7 +131,7 @@
 |[34-Xfce](https://github.com/netbootxyz/fedora-assets/tree/34-Xfce)|[![34-Xfce](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-Xfce.yml/badge.svg)](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-Xfce.yml)
 |[34-i3](https://github.com/netbootxyz/fedora-assets/tree/34-i3)|[![34-i3](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-i3.yml/badge.svg)](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-i3.yml)
 
-## Manjaro Operating Systems [![Downloads](https://img.shields.io/github/downloads/netbootxyz/manjaro-squash/total)
+## Manjaro Operating Systems [![Downloads](https://img.shields.io/github/downloads/netbootxyz/manjaro-squash/total)](https://github.com/netbootxyz/manjaro-squash)
 |Build Item|Status|
 |----------|------|
 |[architect-current](https://github.com/netbootxyz/manjaro-squash/tree/architect-current)|[![architect-current](https://github.com/netbootxyz/manjaro-squash/actions/workflows/architect-current.yml/badge.svg)](https://github.com/netbootxyz/manjaro-squash/actions/workflows/architect-current.yml)|
@@ -139,7 +139,7 @@
 |[kde-current](https://github.com/netbootxyz/manjaro-squash/tree/kde-current)|[![kde-current](https://github.com/netbootxyz/manjaro-squash/actions/workflows/kde-current.yml/badge.svg)](https://github.com/netbootxyz/manjaro-squash/actions/workflows/kde-current.yml)|
 |[xfce-current](https://github.com/netbootxyz/manjaro-squash/tree/xfce-current)|[![xfce-current](https://github.com/netbootxyz/manjaro-squash/actions/workflows/xfce-current.yml/badge.svg)](https://github.com/netbootxyz/manjaro-squash/actions/workflows/xfce-current.yml)|
 
-## Ubuntu Based Operating Systems [![Downloads](https://img.shields.io/github/downloads/netbootxyz/ubuntu-squash/total)
+## Ubuntu Based Operating Systems [![Downloads](https://img.shields.io/github/downloads/netbootxyz/ubuntu-squash/total)](https://github.com/netbootxyz/ubuntu-squash)
 |Build Item|Status|
 |----------|------|
 |[backbox-7](https://github.com/netbootxyz/ubuntu-squash/tree/backbox-7)|[![backbox-7](https://github.com/netbootxyz/ubuntu-squash/actions/workflows/backbox-7.yml/badge.svg)](https://github.com/netbootxyz/ubuntu-squash/actions/workflows/backbox-7.yml)|
