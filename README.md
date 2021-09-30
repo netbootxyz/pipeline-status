@@ -100,8 +100,7 @@
 |Build Item|Status|
 |----------|------|
 |[alpinelinux](https://github.com/netbootxyz/external-versions/tree/alpinelinux)|[![alpinelinux](https://github.com/netbootxyz/external-versions/actions/workflows/alpinelinux.yml/badge.svg)](https://github.com/netbootxyz/external-versions/actions/workflows/alpinelinux.yml)
-|[archlinux-32](https://github.com/netbootxyz/external-versions/tree/archlinux-32)|[![archlinux-32](https://github.com/netbootxyz/external-versions/actions/workflows/archlinux-32.yml/badge.svg)](https://github.com/netbootxyz/external-versions/actions/workflows/archlinux-32.yml)
-|[archlinux-64](https://github.com/netbootxyz/external-versions/tree/archlinux-64)|[![archlinux-64](https://github.com/netbootxyz/external-versions/actions/workflows/archlinux-64.yml/badge.svg)](https://github.com/netbootxyz/external-versions/actions/workflows/archlinux-64.yml)
+|[archlinux](https://github.com/netbootxyz/external-versions/tree/archlinux)|[![archlinux](https://github.com/netbootxyz/external-versions/actions/workflows/archlinux.yml/badge.svg)](https://github.com/netbootxyz/external-versions/actions/workflows/archlinux.yml)
 |[coreos](https://github.com/netbootxyz/external-versions/tree/coreos)|[![coreos](https://github.com/netbootxyz/external-versions/actions/workflows/coreos.yml/badge.svg)](https://github.com/netbootxyz/external-versions/actions/workflows/coreos.yml)
 |[ipfire](https://github.com/netbootxyz/external-versions/tree/ipfire)|[![ipfire](https://github.com/netbootxyz/external-versions/actions/workflows/ipfire.yml/badge.svg)](https://github.com/netbootxyz/external-versions/actions/workflows/ipfire.yml)
 |[nixos](https://github.com/netbootxyz/external-versions/tree/nixos)|[![nixos](https://github.com/netbootxyz/external-versions/actions/workflows/nixos.yml/badge.svg)](https://github.com/netbootxyz/external-versions/actions/workflows/nixos.yml)
