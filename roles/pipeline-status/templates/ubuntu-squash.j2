@@ -2,5 +2,5 @@
 |Build Item|Status|
 |----------|------|
 {% for item in ubuntu_branches.stdout_lines -%}
-|[{{ item }}](https://github.com/netbootxyz/ubuntu-squash/tree/{{ item }})|[![{{ item }}](https://github.com/netbootxyz/ubuntu-squash/actions/workflows/{{ item }}.yml/badge.svg)](https://github.com/netbootxyz/ubuntu-squash/actions/workflows/{{ item }}.yml)|
+|[{{ item }}](https://github.com/netbootxyz/ubuntu-squash/tree/{{ item }})|[![{{ item }}](https://img.shields.io/github/workflow/status/netbootxyz/ubuntu-squash/{{ item }}/{{ item }}?style=for-the-badge)](https://github.com/netbootxyz/ubuntu-squash/actions/workflows/{{ item }}.yml)|
 {% endfor -%}
