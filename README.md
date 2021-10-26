@@ -153,7 +153,6 @@
 ## Manjaro Operating Systems [![Downloads](https://img.shields.io/github/downloads/netbootxyz/manjaro-squash/total)](https://github.com/netbootxyz/manjaro-squash)
 |Build Item|Status|
 |----------|------|
-|[architect-current](https://github.com/netbootxyz/manjaro-squash/tree/architect-current)|[![architect-current](https://img.shields.io/github/workflow/status/netbootxyz/manjaro-squash/architect-current/architect-current?style=for-the-badge)](https://github.com/netbootxyz/manjaro-squash/actions/workflows/architect-current.yml)|
 |[gnome-current](https://github.com/netbootxyz/manjaro-squash/tree/gnome-current)|[![gnome-current](https://img.shields.io/github/workflow/status/netbootxyz/manjaro-squash/gnome-current/gnome-current?style=for-the-badge)](https://github.com/netbootxyz/manjaro-squash/actions/workflows/gnome-current.yml)|
 |[kde-current](https://github.com/netbootxyz/manjaro-squash/tree/kde-current)|[![kde-current](https://img.shields.io/github/workflow/status/netbootxyz/manjaro-squash/kde-current/kde-current?style=for-the-badge)](https://github.com/netbootxyz/manjaro-squash/actions/workflows/kde-current.yml)|
 |[xfce-current](https://github.com/netbootxyz/manjaro-squash/tree/xfce-current)|[![xfce-current](https://img.shields.io/github/workflow/status/netbootxyz/manjaro-squash/xfce-current/xfce-current?style=for-the-badge)](https://github.com/netbootxyz/manjaro-squash/actions/workflows/xfce-current.yml)|
