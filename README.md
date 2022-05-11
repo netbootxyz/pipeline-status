@@ -125,14 +125,6 @@
 ## Fedora Based Operating Systems [![Downloads](https://img.shields.io/github/downloads/netbootxyz/fedora-assets/total)](https://github.com/netbootxyz/fedora-assets)
 |Build Item|Status|
 |----------|------|
-|[34](https://github.com/netbootxyz/fedora-assets/tree/34)|[![34](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/34/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/34.yml)
-|[34-KDE](https://github.com/netbootxyz/fedora-assets/tree/34-KDE)|[![34-KDE](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/34-KDE/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-KDE.yml)
-|[34-LXDE](https://github.com/netbootxyz/fedora-assets/tree/34-LXDE)|[![34-LXDE](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/34-LXDE/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-LXDE.yml)
-|[34-LXQt](https://github.com/netbootxyz/fedora-assets/tree/34-LXQt)|[![34-LXQt](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/34-LXQt/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-LXQt.yml)
-|[34-MATE_Compiz](https://github.com/netbootxyz/fedora-assets/tree/34-MATE_Compiz)|[![34-MATE_Compiz](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/34-MATE_Compiz/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-MATE_Compiz.yml)
-|[34-SoaS](https://github.com/netbootxyz/fedora-assets/tree/34-SoaS)|[![34-SoaS](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/34-SoaS/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-SoaS.yml)
-|[34-Xfce](https://github.com/netbootxyz/fedora-assets/tree/34-Xfce)|[![34-Xfce](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/34-Xfce/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-Xfce.yml)
-|[34-i3](https://github.com/netbootxyz/fedora-assets/tree/34-i3)|[![34-i3](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/34-i3/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/34-i3.yml)
 |[35](https://github.com/netbootxyz/fedora-assets/tree/35)|[![35](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/35/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/35.yml)
 |[35-Cinnamon](https://github.com/netbootxyz/fedora-assets/tree/35-Cinnamon)|[![35-Cinnamon](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/35-Cinnamon/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/35-Cinnamon.yml)
 |[35-KDE](https://github.com/netbootxyz/fedora-assets/tree/35-KDE)|[![35-KDE](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/35-KDE/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/35-KDE.yml)
@@ -142,6 +134,9 @@
 |[35-SoaS](https://github.com/netbootxyz/fedora-assets/tree/35-SoaS)|[![35-SoaS](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/35-SoaS/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/35-SoaS.yml)
 |[35-Xfce](https://github.com/netbootxyz/fedora-assets/tree/35-Xfce)|[![35-Xfce](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/35-Xfce/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/35-Xfce.yml)
 |[35-i3](https://github.com/netbootxyz/fedora-assets/tree/35-i3)|[![35-i3](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/35-i3/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/35-i3.yml)
+|[36](https://github.com/netbootxyz/fedora-assets/tree/36)|[![36](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/36/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/36.yml)
+|[36-Cinnamon](https://github.com/netbootxyz/fedora-assets/tree/36-Cinnamon)|[![36-Cinnamon](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/36-Cinnamon/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/36-Cinnamon.yml)
+|[36-KDE](https://github.com/netbootxyz/fedora-assets/tree/36-KDE)|[![36-KDE](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/36-KDE/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/36-KDE.yml)
 
 ## Manjaro Operating Systems [![Downloads](https://img.shields.io/github/downloads/netbootxyz/manjaro-squash/total)](https://github.com/netbootxyz/manjaro-squash)
 |Build Item|Status|
