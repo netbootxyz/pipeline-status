@@ -134,6 +134,7 @@
 |[36-SoaS](https://github.com/netbootxyz/fedora-assets/tree/36-SoaS)|[![36-SoaS](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/36-SoaS/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/36-SoaS.yml)
 |[36-Xfce](https://github.com/netbootxyz/fedora-assets/tree/36-Xfce)|[![36-Xfce](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/36-Xfce/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/36-Xfce.yml)
 |[36-i3](https://github.com/netbootxyz/fedora-assets/tree/36-i3)|[![36-i3](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/36-i3/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/36-i3.yml)
+|[37](https://github.com/netbootxyz/fedora-assets/tree/37)|[![37](https://img.shields.io/github/workflow/status/netbootxyz/fedora-assets/37/master?style=for-the-badge)](https://github.com/netbootxyz/fedora-assets/actions/workflows/37.yml)
 
 ## Manjaro Operating Systems [![Downloads](https://img.shields.io/github/downloads/netbootxyz/manjaro-squash/total)](https://github.com/netbootxyz/manjaro-squash)
 |Build Item|Status|
