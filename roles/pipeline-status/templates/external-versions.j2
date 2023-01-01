@@ -2,5 +2,5 @@
 |Build Item|Status|
 |----------|------|
 {% for item in external_branches.stdout_lines -%}
-|[{{ item }}](https://github.com/netbootxyz/external-versions/tree/{{ item }})|[![{{ item }}](https://img.shields.io/github/workflow/status/netbootxyz/external-versions/{{ item }}/master?style=for-the-badge)](https://github.com/netbootxyz/external-versions/actions/workflows/{{ item }}.yml)
+|[{{ item }}](https://github.com/netbootxyz/external-versions/tree/{{ item }})|[![{{ item }}](https://img.shields.io/github/actions/workflow/status/netbootxyz/external-versions/{{ item }}.yml?style=for-the-badge)](https://github.com/netbootxyz/external-versions/actions/workflows/{{ item }}.yml)
 {% endfor -%}
