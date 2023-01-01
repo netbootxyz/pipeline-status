@@ -9,7 +9,7 @@
 ## Docker Builds
 |Build Item|Status|
 |----------|------|
-|[docker-builder](https://github.com/netbootxyz/docker-builder)|![Build Status](https://github.com/netbootxyz/docker-builder/workflows/docker-builder/badge.svg)|
+|[docker-builder](https://github.com/netbootxyz/docker-builder)|![Build Status](https://github.com/netbootxyz/docker-builder/workflows/builder/badge.svg)|
 ## Asset Mirrors [![Downloads](https://img.shields.io/github/downloads/netbootxyz/asset-mirror/total)](https://github.com/netbootxyz/asset-mirror)
 |Build Item|Status|
 |----------|------|
