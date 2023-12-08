@@ -13,7 +13,7 @@ RUN \
  ansible-playbook -i inventory site.yml
 
 # runtime stage
-FROM alpine:3.18
+FROM alpine:3.19
 
 COPY --from=builder /opt/builders/output /mnt/
 COPY docker-build-root/ /
