@@ -17,7 +17,7 @@ jobs:
         docker build -t localbuild -f Dockerfile .
         docker run --rm -v $(pwd):/buildout localbuild
         mv buildout/README.md .
-    - uses: stefanzweifel/git-auto-commit-action@v5
+    - uses: stefanzweifel/git-auto-commit-action@v6
       with:
         commit_message: Update README.md with latest pipeline-status
         branch: main
